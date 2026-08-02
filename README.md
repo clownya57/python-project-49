@@ -19,4 +19,4 @@
 ### Brain Progression demonstration
 [![asciicast](https://asciinema.org/a/uSgKekqNAtBNCVGN.svg)](https://asciinema.org/a/uSgKekqNAtBNCVGN)
 ### Brain Prime demonstration
-![asciicast](https://asciinema.org/a/GEeaR8KyJviiOblv.svg)](https://asciinema.org/a/GEeaR8KyJviiOblv)
+[![asciicast](https://asciinema.org/a/GEeaR8KyJviiOblv.svg)](https://asciinema.org/a/GEeaR8KyJviiOblv)
