@@ -14,3 +14,5 @@
 [![asciicast](https://asciinema.org/a/FTgz0tE74b3wNCed.svg)](https://asciinema.org/a/FTgz0tE74b3wNCed)
 ### Brain Calc demonstration
 [![asciicast](https://asciinema.org/a/i8150eyHbhwOp99E.svg)](https://asciinema.org/a/i8150eyHbhwOp99E)
+### Brain GCD demonstration
+[![asciicast](https://asciinema.org/a/HIVuewfDCTdDIYpe.svg)](https://asciinema.org/a/HIVuewfDCTdDIYpe)
