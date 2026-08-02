@@ -10,3 +10,5 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=clownya57_python-project-49&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=clownya57_python-project-49)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=clownya57_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=clownya57_python-project-49)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=clownya57_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=clownya57_python-project-49)
+### Brain Even demonstration
+[![asciicast](https://asciinema.org/a/FTgz0tE74b3wNCed.svg)](https://asciinema.org/a/FTgz0tE74b3wNCed)
